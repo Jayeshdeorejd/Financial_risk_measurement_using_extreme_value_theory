@@ -96,7 +96,7 @@ backend_code.R         # All code for data retrieval, analysis, plots, EVT, copu
 
 The complete project report is not included directly in this repository. You can securely access the final report via the following Google Drive link:
 
-[Download Report](https://docs.google.com/document/d/1FXVnaLWbHPcbqFrMikW8Ka-hOrBi-v2V/edit?usp=drive_link&ouid=113317600828046355730&rtpof=true&sd=true)
+[Download Report](https://drive.google.com/file/d/1w1I58LNFiM712mZQSRoPIYlxJ7tcbu34/view?usp=sharing)
 
 > Request access as it is not publicly available.
 
