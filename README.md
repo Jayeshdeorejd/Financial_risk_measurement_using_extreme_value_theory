@@ -91,3 +91,12 @@ backend_code.R         # All code for data retrieval, analysis, plots, EVT, copu
 - **VaR:** "We are 95% sure that the loss will not exceed VaR in a day, under normal market conditions."
 - **CVaR/ES:** "If losses do breach VaR, average loss in that scenario is the ES (generally more conservative and informative)."
 - **Portfolio metrics** are lower due to diversification, but tail dependence among banks limits risk reduction, particularly during market stress.
+
+## Access the Final Report
+
+The complete project report is not included directly in this repository. You can securely access the final report via the following Google Drive link:
+
+[Download Report](https://docs.google.com/document/d/1FXVnaLWbHPcbqFrMikW8Ka-hOrBi-v2V/edit?usp=drive_link&ouid=113317600828046355730&rtpof=true&sd=true)
+
+> Request access as it is not publicly available.
+
